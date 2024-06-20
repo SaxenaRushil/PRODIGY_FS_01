@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+header,
+footer,
+section {
+  @apply px-10;
+}
+
+section {
+  @apply py-3;
+}
