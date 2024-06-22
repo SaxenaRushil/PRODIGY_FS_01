@@ -8,7 +8,7 @@ type Props = {}
 const Header = (props: Props) => {
   return (
     <section className='sticky z-40 flex flex-row w-full bg-black justify-between top-0 '>
-       <Link href="/"><p className='text-4xl font-bold'>Aryan.</p> </Link>  
+       <Link href="/"><p className='text-4xl font-bold'>RUSHIL</p> </Link>  
       <ul className=' lg:flex md:flex hidden items-center  ' >
         <li  className='flex gap-10 ' >   
             <Link href="/" className='hover:text-green-800 hover:underline transition-all duration-500 text-white text-xl font-semibold'>Home</Link>
